@@ -14,7 +14,7 @@ body {
   background-position: center;
 }
 .hero {
-  height: 63%;
+  height: 75%;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
@@ -41,10 +41,10 @@ body {
 }
 .logo {
   width: 23%;
-  height: 25%;
+  height: 15%;
 }
 .container {
-  height: 57%;
+  height: 70%;
   max-width: 480px;
   padding: 0 40px;
   background: rgba(10, 24, 59, 0.8);
